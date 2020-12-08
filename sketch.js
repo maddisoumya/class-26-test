@@ -34,7 +34,7 @@ function setup() {
 
 
 function draw() {
-  background(0);
+  background(255);
   Engine.update(engine)
   rectMode(CENTER)
   //rect(object.position.x,object.position.y,50,50) 
